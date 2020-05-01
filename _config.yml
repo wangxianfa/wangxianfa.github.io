@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: FA Blog
+SEOTitle: 小小发的博客 | FA Blog
 header-img: img/post-bg-desk.jpg
-email: 127.0.0.1@qq.com
+email: 1270386187@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "FA, FA Blog, 小小发的博客, xiaoxiaofa, 小小发, Web, Javascript"
 url: "http://wangxianfa.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wangxianfa/wangxianfa.github.io.git" # you code repository
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: wangxianfa
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 0cfb7b2f12b09217261d                            #生成的clientID
+  clientSecret: 792389e0665e558360367612b1e5267059970c9c    #生成的clientSecret
+  repo: wangxianfa.github.io    #仓库名称
+  owner: wangxianfa    #github用户名
+  admin: wangxianfa
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: c57f288fa699a2970b69b60b8f42e34b
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-165254776-1'            # Format: UA-xxxxxx-xx
+ga_domain: www.xiaoxiaofa.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,11 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "FA",
+        href: "http://www.xiaoxiaofa.com"
     },{
         title: "Apple",
         href: "https://apple.com"
